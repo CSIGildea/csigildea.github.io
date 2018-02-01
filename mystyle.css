@@ -1,12 +1,10 @@
 #profile {
  	padding-top: 4%;
- 	padding-left: 2%;
  }
 
 
 #contentMenu {
 	padding-top: 4%;
-	padding-left: 15px;
  }
 
  .menuHiddenText{
@@ -15,7 +13,6 @@
  }
  .menuShowText{
  	visibility: visible;
- 	color: red;
  }
  .video-container {
 	position:relative;
